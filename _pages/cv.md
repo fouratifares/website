@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
 ======
 * Ph.D. in Machine Learning, KAUST, (Ongoing)
 * Master of Science in Electrical and Computer Engineering, KAUST, 2022
@@ -37,7 +37,7 @@ Education
 
 [//]: # (  * Supervisor: Professor Hub)
   
-Interests
+# Interests
 ======
 * Machine Learning
   * Reinforcement Learning
@@ -47,21 +47,21 @@ Interests
 
 
 
-Publications
+# Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
-Presentations
+# Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 
-Teaching
+# Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
