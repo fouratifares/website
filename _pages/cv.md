@@ -39,11 +39,13 @@ redirect_from:
   
 ## Interests
 
+
+* Reinforcement Learning
+* Deep Learning
+* Online Learning
+* Federated Learning
 * Machine Learning
-  * Reinforcement Learning
-  * Deep Learning
-  * Online Learning
-  * Federated Learning
+* Artificial Intelligence
 
 
 
