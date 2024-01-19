@@ -1,1 +1,1 @@
-[Personal Page](https://fouratifares.github.io/personal/)
+[Personal Page](https://fouratifares.github.io/faresfourati.github.io/)
