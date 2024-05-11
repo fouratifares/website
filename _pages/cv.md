@@ -42,7 +42,7 @@ redirect_from:
 
 * Reinforcement Learning
 * Deep Learning
-* Online Learning
+* Online Learning 
 * Federated Learning
 * Machine Learning
 * Artificial Intelligence
