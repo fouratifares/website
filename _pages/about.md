@@ -17,8 +17,6 @@ I am a Ph.D. candidate in machine learning at [KAUST](https://www.kaust.edu.sa/e
 
 My research centers around multi-armed bandits, reinforcement learning, and neural networks, with a commitment to exploring intelligence and contributing to the advancement of AI.
 
-In 2022, I attained my M.Sc. in electrical and computer engineering from KAUST. 
+In 2022, I attained my Master of Science in electrical and computer engineering from KAUST. 
 
-In 2020, I earned my Diplôme d’Ingénieur in multidisciplinary engineering from the [Ecole Polytechnique de Tunisie](https://en.wikipedia.org/wiki/Tunisia_Polytechnic_School). 
-
-In 2017, I achieved a position within the top 1% in the Tunisian national mathematics and physics contest.
+In 2020, I earned my Diplôme d’Ingénieur in multidisciplinary engineering from the [Ecole Polytechnique de Tunisie](https://en.wikipedia.org/wiki/Tunisia_Polytechnic_School), which I joined in 2017 after ranking in the top 1% in the Tunisian national mathematics and physics contest.
