@@ -6,8 +6,7 @@ date: 2024-05-09
 venue: 'Proceedings of the International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/abs/2405.05950'
 ---
-Fourati, F., Alouini, M. S., & Aggarwal, V. (2024). Federated Combinatorial Multi-Agent Multi-Armed Bandits. Accepted at the International Conference on Machine Learning.
-
+Fares Fourati, Mohamed-Slim Alouini, and Vaneet Aggarwal
 
 ## Abstract
 This paper introduces a federated learning framework tailored for online combinatorial optimization with bandit feedback. In this setting, agents select subsets of arms, observe noisy rewards for these subsets without accessing individual arm information, and can cooperate and share information at specific intervals.
