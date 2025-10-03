@@ -1,7 +1,7 @@
 ---
 title: "To What End? Meditations on AI and Humanity"
 collection: books
-permalink: /books/2025-to-what-end
+permalink: /books/2025-09-29-towhatend
 date: 2025-09-29
 venue: 'Amazon Kindle'
 ---
