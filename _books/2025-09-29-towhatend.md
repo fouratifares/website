@@ -4,11 +4,13 @@ collection: books
 permalink: /books/2025-09-29-towhatend
 date: 2025-09-29
 venue: 'Amazon Kindle'
+paperurl: 'https://www.amazon.com/-/en/dp/B0FT5BFX7W'
 ---
 Fares Fourati
 
 
 ## Abstract 
+
 Artificial intelligence is no longer a distant possibility, it is already reshaping how we live, think, and dream. But beyond its power and promise lies the deeper question: To what end?
 
 In this thought-provoking book, researcher Fares Fourati reflects on the rise of AI not as a technical manual, but as a meditation on meaning, purpose, and the future of intelligence itself. Blending science, philosophy, and poetry, he explores questions at the edge of human and machine:
