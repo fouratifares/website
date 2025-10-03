@@ -6,9 +6,10 @@ date: 2025-09-29
 venue: 'Amazon Kindle'
 paperurl: 'https://www.amazon.com/-/en/dp/B0FT5BFX7W'
 ---
+
 Fares Fourati
 
-![Book cover for "To What End?"](https://m.media-amazon.com/images/I/71-uAw2JRtL._SY522_.jpg){:style="max-width:300px; display:block; margin:auto;"}
+![Book cover for "To What End?"](https://m.media-amazon.com/images/I/71-uAw2JRtL._SY522_.jpg){:style="max-width:150px; display:block; margin:auto;"}
 
 ## Abstract 
 
