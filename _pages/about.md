@@ -23,4 +23,4 @@ Beyond research, I am deeply passionate about teaching and mentoring. I have tau
 
 My academic path began in Tunisia, where I ranked among the top 1% nationally in the entrance exam for engineering schools. I earned my Diplôme d’Ingénieur in Multidisciplinary Engineering from [École Polytechnique de Tunisie](https://en.wikipedia.org/wiki/Tunisia_Polytechnic_School) in 2020, followed by an M.Sc. in Electrical and Computer Engineering from KAUST in 2022.
 
-At the core, I am driven by a deep curiosity about intelligence—human and artificial—and a belief that AI can transform how we understand ourselves, the world, and the challenges ahead.
+At the core, I am driven by a deep curiosity about intelligence—human and artificial—and a belief that AI can transform how we understand ourselves, the world, and the challenges ahead. This curiosity also inspired my book, [To What End? Meditations on AI and Humanity](https://www.amazon.com/-/en/dp/B0FT5BFX7W), which examines the philosophical dimensions of AI in the context of human progress.
