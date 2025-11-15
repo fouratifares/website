@@ -1,7 +1,7 @@
 ---
 title: "ECPv2: Fast, Efficient, and Scalable Global Optimization of Lipschitz Functions"
 collection: publications
-permalink: /publication/2025-02-20-ecpv2
+permalink: /publication/ecpv2
 date: 2026-02-20
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence'
 
