@@ -4,7 +4,8 @@ collection: books
 permalink: /books/2025-09-29-towhatend
 date: 2025-09-29
 venue: 'Amazon Kindle'
-paperurl: 'https://www.amazon.com/-/en/dp/B0FT5BFX7W'
+
+[//]: # (paperurl: 'https://www.amazon.com/-/en/dp/B0FT5BFX7W')
 ---
 
 Fares Fourati
