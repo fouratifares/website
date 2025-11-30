@@ -13,7 +13,7 @@ redirect_from:
 
 Welcome! 
 
-I am Fares Fourati, a Ph.D. candidate in machine learning at [KAUST](https://www.kaust.edu.sa/en/). My research aims to contribute to the progress toward [Artificial General Intelligence (AGI)](https://arxiv.org/pdf/2510.20784), systems with strong reasoning abilities, persistent long-term memory, and continual learning from experience in large decision spaces. I investigate these challenges through reinforcement learning, optimization, and large language models.
+I am Fares Fourati, a Ph.D. candidate in machine learning at [KAUST](https://www.kaust.edu.sa/en/). My research aims to contribute to the progress toward [Artificial General Intelligence (AGI)](https://arxiv.org/pdf/2510.20784), pushing the boundaries of AI beyond human-level intelligence with strong reasoning abilities, persistent long-term memory, and continual learning in large decision spaces. My work addresses these challenges through reinforcement learning, optimization, and large language models, combining both theoretical analysis and empirical investigation.
 
 I am a published author (and reviewer) at top-tier AI/ML/NLP venues (ICML, AAAI, EMNLP, AISTATS, ECAI), and my work has been recognized with multiple awards. During my Ph.D., I was named to the CEMSE Dean’s List at KAUST for two consecutive years (2023/2024 and 2024/2025). I also won first place at the ACM-SIAM Student Competition (2024), was recognized as a KAUST AI Rising Star (2023), and secured first place at the Marconi Society’s Connectivity Summit (2021). Earlier, I became a Kaggle Competitions Expert (2020).
 
